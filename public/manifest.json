@@ -1,0 +1,8 @@
+{
+  "short_name": "Meal Planner",
+  "name": "Root & Rise Meal Planner",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3D4A2E",
+  "background_color": "#F5F0E8"
+}
