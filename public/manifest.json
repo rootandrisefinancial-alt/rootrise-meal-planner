@@ -3,7 +3,7 @@
   "name": "Root & Rise Meal Planner",
   "icons": [
     {
-      "src": "ICON.png",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
