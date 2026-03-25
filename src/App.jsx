@@ -1497,7 +1497,7 @@ Reset
 </div>
 </div>
 
-```
+
   {/* Page title bar */}
   {tab !== 0 && (
     <div style={{ background: COLORS.darkCream, padding: "12px 20px 10px", borderBottom: `1px solid ${COLORS.sage}22` }}>
@@ -1522,7 +1522,7 @@ Reset
     ))}
   </div>
 </div>
-```
+
 
 );
 }
